@@ -150,6 +150,8 @@ main {
 .features {
   display: flex;
   justify-content: space-around;
+  color: var(--secondary-color);
+  background: var(--primary-color);
   padding: 20px;
   flex-wrap: wrap;
 }
