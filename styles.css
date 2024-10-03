@@ -151,13 +151,14 @@ main {
   display: flex;
   justify-content: space-around;
   padding: 20px;
-  background: var(--primary-color);
   flex-wrap: wrap;
 }
 
 .feature {
 /* <<<<<<< enhanceFAQ */
   text-align: center;
+  color: var(--secondary-color);
+  background: var(--primary-color);
   padding: 20px;
   background: #f9f9f9;
   border-radius: 5px;
